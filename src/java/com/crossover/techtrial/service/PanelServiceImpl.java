@@ -15,7 +15,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class PanelServiceImpl implements PanelService {
 
-  @Autowired
+  @Autowired 
   PanelRepository panelRepository;
   
   /* (non-Javadoc)

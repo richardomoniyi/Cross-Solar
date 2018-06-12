@@ -41,7 +41,7 @@ public class CrossSolarApplicationTest {
      * Test of main method, of class CrossSolarApplication.
      */
     @Test
-    public void testMain() {
+    public void testMain() { 
         System.out.println("main");
         String[] args = null;
         CrossSolarApplication.main(args);

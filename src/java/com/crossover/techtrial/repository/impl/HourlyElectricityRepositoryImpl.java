@@ -36,7 +36,7 @@ public class HourlyElectricityRepositoryImpl implements HourlyElectricityReposit
     public <S extends HourlyElectricity> S save(S s) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
-
+ 
     @Override
     public <S extends HourlyElectricity> Iterable<S> save(Iterable<S> itrbl) {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
